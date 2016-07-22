@@ -1,0 +1,2 @@
+defmodule Mars do
+end
